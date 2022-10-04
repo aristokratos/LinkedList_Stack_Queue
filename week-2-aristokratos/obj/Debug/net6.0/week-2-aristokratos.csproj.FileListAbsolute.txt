@@ -1,0 +1,15 @@
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\obj\Debug\net6.0\week-2-aristokratos.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\obj\Debug\net6.0\week-2-aristokratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\obj\Debug\net6.0\week-2-aristokratos.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\obj\Debug\net6.0\week-2-aristokratos.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\obj\Debug\net6.0\week-2-aristokratos.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\bin\Debug\net6.0\week-2-aristokratos.exe
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\bin\Debug\net6.0\week-2-aristokratos.deps.json
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\bin\Debug\net6.0\week-2-aristokratos.runtimeconfig.json
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\bin\Debug\net6.0\week-2-aristokratos.dll
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\bin\Debug\net6.0\week-2-aristokratos.pdb
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\obj\Debug\net6.0\week-2-aristokratos.dll
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\obj\Debug\net6.0\refint\week-2-aristokratos.dll
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\obj\Debug\net6.0\week-2-aristokratos.pdb
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\obj\Debug\net6.0\week-2-aristokratos.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\week-2-aristokratos\week-2-aristokratos\obj\Debug\net6.0\ref\week-2-aristokratos.dll
